@@ -1,0 +1,3 @@
+jmeter -n -t Alzeena_T100.jmx -l report\Alzeena_T100.jtl
+
+jmeter -g report\Alzeena_T100.jtl -o report\Alzeena_T100.html
